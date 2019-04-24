@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Footer and it contents should render Footer correctly 1`] = `
+<footer>
+  <p>
+    Copyrights Akwasi Sefa-Boakye. All rights reserved.
+  </p>
+</footer>
+`;
